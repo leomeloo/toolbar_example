@@ -2,7 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item android:id="@+id/buscar" android:title="Buscar" app:showAsAction="always"></item>
+    <item android:id="@+id/buscar" android:title="Buscar" android:icon="@drawable/baseline_search_white_18dp" app:showAsAction="always"></item>
     <item android:id="@+id/config" android:title="Configuração"></item>
     <item android:id="@+id/sobre" android:title="Sobre"></item>
 </menu>
+
+    <!-- Este XML inclui o menu na toolbar, com os itens aqui criados.-->

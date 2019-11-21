@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
         toolbar = findViewById(R.id.toolbar1);
         setSupportActionBar(toolbar);
-
     }
 
     @Override

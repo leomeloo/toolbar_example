@@ -9,6 +9,7 @@
         <item name="popupTheme">@style/popUp</item>
     </style>
 
+    <!--Adicionar uma cor para o popUp que abre quando clicar no menu da toolbar-->
     <style name="popUp" parent="ThemeOverlay.AppCompat.Light">
         <item name="android:background"> @android:color/white</item>
     </style>

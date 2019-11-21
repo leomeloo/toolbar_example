@@ -6,6 +6,7 @@
     android:background="?attr/colorPrimary"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+    <!-- A linha 8 serve para deixar as letras da toolbar brancas-->
 
 
 
